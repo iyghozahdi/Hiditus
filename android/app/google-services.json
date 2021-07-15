@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "731291044655",
+    "firebase_url": "https://sistpakardiabetes.firebaseio.com",
+    "project_id": "sistpakardiabetes",
+    "storage_bucket": "sistpakardiabetes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731291044655:android:fe1e8dc3fccf88a4",
+        "android_client_info": {
+          "package_name": "com.mail.skripsiprogram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731291044655-r7dem8djtji6b9rk0qhlp94jpl53uas3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mail.skripsiprogram",
+            "certificate_hash": "7d84243c99c986a2ade44018441fa0867d465017"
+          }
+        },
+        {
+          "client_id": "731291044655-vrlujbru53kf617qba1ktvcq131cptt4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqUq5a150vh8lE36HS_gZujoeDySOdqg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731291044655-vrlujbru53kf617qba1ktvcq131cptt4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
