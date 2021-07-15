@@ -1,6 +1,6 @@
 # Hiditus
 
-Simple flutter program to diagnose diabetes and hypertension
+Simple flutter app to diagnose diabetes and hypertension
 
 ## Getting Started
 
