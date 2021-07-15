@@ -1,6 +1,6 @@
-# skripsiprogram
+# Hiditus
 
-Program Skripsi Diagnosa Penyakit Diabetes
+Simple flutter program to diagnose diabetes and hypertension
 
 ## Getting Started
 
